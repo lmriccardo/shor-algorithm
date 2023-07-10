@@ -18,7 +18,7 @@ A notebook to explain both textual and figurative each step is contained in the 
 
 ## References
 
-[1] Michael Nielsen and Isaac Chuang (2000). [Quantum Computation and Quantum Information](http://mmrc.amss.cas.cn/tlb/201702/W020170224608149940643.pdf).
+[1] Michael Nielsen and Isaac Chuang (2000). Quantum Computation and Quantum Information (Link not available).
 
 [2] Stephane Beauregard (2003). [Circuit for Shor's algorithm using $2n + 3$ qubits](https://arxiv.org/pdf/quant-ph/0205095.pdf)
 
